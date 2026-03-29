@@ -25,5 +25,5 @@ using Basic Aggregations
   -Count the number of Male employees in Lagos using COUNTIFS
   -Find the Maximum Salary for employees in IT Department using MAXIFS
 
- DATASHEET INTERFACE
+ EXCEL INTERFACE
 <img width="1215" height="511" alt="image (1)" src="https://github.com/user-attachments/assets/7e04387a-07ed-4a77-b026-c2bbe12c8022" />
