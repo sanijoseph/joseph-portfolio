@@ -91,7 +91,4 @@ C. Trends & ProportionsCustomer
   Demographic Slicers: Enables cross-filtering by customer Gender (Male/Female) to instantly discover targeted purchasing habits across different brands and product colors.
 5. Portfolio TakeawaysThis project showcases my ability to clean disjointed data tables, engineer robust relational data models, translate raw data into key business performance indicators (KPIs), and present information through professional, user-centric dashboard design.
 
-   DASHBOARD
-   <img width="766" height="428" alt="image (5)" src="https://github.com/user-attachments/assets/b7a14c69-cd42-4b67-9874-6a37f7ba2df8" />
-
-
+  
