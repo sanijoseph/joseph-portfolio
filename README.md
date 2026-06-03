@@ -57,6 +57,10 @@ DASHBOARD
 
 
 # (project 3: sales and customer demographic powerbi dashboard)
+
+ 
+   <img width="766" height="428" alt="image (5)" src="https://github.com/user-attachments/assets/b7a14c69-cd42-4b67-9874-6a37f7ba2df8" />
+
 1. Project OverviewThe objective of this project was to transform raw, multi-table business data into an interactive, high-level executive dashboard. By connecting sales transactions with product details and customer demographics, this dashboard empowers business leaders to analyze revenue drivers, track customer acquisition trends, and evaluate product profitability at a glance.
 
 2. Data Architecture & Transformation (ETL)The foundational data was extracted from a multi-sheet workbook named t2ugdXCRGGkWmsN5aMEH_Power BI project TSA (1) (1).xlsx, consisting of three primary relational tables:
